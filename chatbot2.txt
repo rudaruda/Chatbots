@@ -1,0 +1,57 @@
+Chatbot (ou chatterbot) é um programa de computador que tenta simular um ser humano na conversação com as pessoas.[1] O objetivo é responder as perguntas de tal forma que as pessoas tenham a impressão de estar conversando com outra pessoa e não com um programa de computador. Após o envio de perguntas em linguagem natural, o programa consulta uma base de conhecimento e em seguida fornece uma resposta que tenta imitar o comportamento humano.
+
+O termo Chatterbot surgiu da junção das palavras chatter (a pessoa que conversa) e da palavra bot (abreviatura de robot), ou seja, um robô (em forma de software) que conversa com as pessoas.
+
+A palavra foi inventada por Michael Mauldin (Criador do primeiro Verbot, Julia) em 1994, para descrever estes robôs de conversação na Twelfth National Conference on Artificial Intelligence.[2]
+
+Os chatbots estão se tornando uma tendência por conta de uma convergência de três coisas: primeiramente, a penetração de aparelhos móveis; depois, o crescimento do uso de aplicativos de mensagens; e, por último, os recentes e rápidos avanços no desenvolvimento de inteligência artificial, que permite que esses robôs para chats possam ser mais detalhistas e parecerem mais humanos.
+
+Em Agosto de 2016 o WhatsApp, maior aplicativo de mensagens do mundo, alterou o seus termos de serviço para incluir chatbots na sua plataforma. Na nova versão está escrito que usuários poderão receber notificações de empresas sobre compras, reservas, atualizações de produtos e mensagens de marketing. Em 2017, o WhatsApp em parceria com algumas empresas, inclusive brasileiras, começou a testar o envio de mensagens para usuários finais.[3]
+
+Chatbot junto com outras aplicações
+
+Além do Facebook e WhatsApp, os Chatbots podem ser publicados em diversos aplicativos de mensagens como Telegram, Skype, Wechat, Webchat, Microsoft Teams, Slack e muitos outros serviços de mensageria, incluindo o e-mail.
+
+Chatbots funcionam basicamente, os chatbots funcionam a partir de regras e (às vezes) com inteligência artificial. No primeiro caso, são parametrizadas palavras-chave e fluxos de navegação bem definidos. Já no segundo, ainda raro, há um ganho de “aprendizado” com o tempo, ou seja, quanto mais utilizados, mais inteligentes ficam os chatbots baseados nessa tecnologia[4].
+
+Um dos grandes benefícios dos chatbots é que eles facilitam as interações, especialmente quando elas são repetitivas, como é o caso das redes sociais. Neles, é possível parametrizar respostas automáticas para determinadas perguntas ou afirmações que os internautas fazem.
+
+De acordo com a revista Forbes, dezenas de empresas já estão usando chatbots tanto para interagir com seus clientes quanto para receber pagamentos. Receber pagamentos on- line, aliás, é outra funcionalidade possível de ser executada por web robots. Eles conhecem o histórico dos usuários e podem facilitar na hora de oferecer condições de fechamento da compra, produtos complementares, entre outras funções que ajudam a melhorar a experiência e a potencializar as vendas. Entre as empresas que já fazem uso de chatbots destacam -se bancos e grandes sites de notícia. O Washington Post, por exemplo, já possui um bot em aperfeiçoamento capaz de personalizar notícias para seus leitores sem que eles precisem baixar um aplicativo[5]. Segundo o portal Digiday, a ideia é que o bot possa dialogar com os internautas e pesquisar com rapidez para entregar informações, “agindo como um repórter”.[6]
+
+Para criar chatbots é necessário uma plataforma de sistema computacional, geralmente fornecidos no modelo de computação na nuvem (cloud computing) e surgiram para auxiliar pessoas[7] sem ter a necessidade de saber programar ou complexidade de construir uma robusta infraestrutura. O grande beneficio das plataformas está nos diversos serviços oferecidos em conjunto, na prática uma plataforma pode ser considerada uma série de serviços ou sistemas que podem funcionar em conjunto ou separados, todos compartilhando um série de pré-configurações nativas.
+
+Um dos precursores da tecnologia em nuvem foi a IBM com o lançamento do Watson em 2003. Ele recebeu este nome em homenagem ao fundador da IBM, o empresário norte-americano Thomas Watson. Após a IBM, os demais grandes jogadores da indústria de tecnologia passaram a investir fortemente em serviços cognitivos, como a Microsoft com o lançamento do LUIS, a Amazon com o Alexa e o Google com o Google Cloud Natural Language.[8][9]
+
+Existem muitas plataformas para criação de chatbots em todo mundo, a exemplo temos a Chatbot Maker, BotPenguin, Manychat, Chatfuel, Chatkit e muitas outras. No Brasil há diversas plataformas nacionais também publicadas como a Take, People, Push, Zenvia e CosmoBots.
+
+Os chatbots tem a vantagens de implementação no atendimento de uma organização são, oferecer um atendimento melhor, podendo ser realizado 24/7, atendendo milhares de pessoas ao mesmo tempo, fazendo com que os processos se tornem mais automatizados, diminuído o tempo gasto para realização uma operação, permitindo uma aproximação melhor das necessidades de cada cliente, dispensando a necessidade de possuir grandes equipes, e com isso ajuda na redução dos gastos, ajuda uma empresa a expandir sua área de atuação para outros países, pelo fato de poder atender clientes com outros idiomas. Além de ser uma forma de obter feedbacks, e dados de forma eficiente, o que é muito importante para as organizações. E isso tudo são fatores que o tornam uma solução estratégica.
+
+A desvantagens dos chatbots existe. Tudo tem um lado positivo e um lado negativo, e com a desvantagem do chatbot são as limitações devem ser consideradas antes de sua implementação. E as desvantagens podem ser a falta de empatia, pode passar a sensação de ser um atendimento muito mecanizado para os clientes, alguns possuem uma limitação nas respostas em um atendimento, fazendo com que tenha uma difícil aceitação por alguns clientes, pelo fato de estar falando com um “robô”, preferindo assim um contato com um funcionário humano, e isso mostra que o chatbot ainda não substituí totalmente um atendente humano, fazendo com que seja melhor no auxilio nas operações de atendimento ao cliente.
+
+Chatbots funcionam com aplicativos de mensagens. Durante a F8, conferência do Facebook voltada para desenvolvedores, a rede social anunciou o lançamento da sua loja de robôs. A empresa oferecia aos desenvolvedores acesso a mecanismos avançados de linguagem natural, permitindo a criação de robôs que podem continuar a aprender com o passar do tempo. O Facebook ainda tem a oportunidade de ter uma base rica em dados, que permite que os desenvolvedores criem robôs muito personalizados. O lançamento incluiu alguns robôs em páginas de parceiros, como a CNN, HP e Wall Street Journal.[carece de fontes]
+
+Por conta da aprendizagem de máquina do chatbot, ele consegue adquirir conhecimento através do uso consecutivo nas interações, e após a sua implementação é necessário a presença de um especialista para que o acompanhe e demande suporte, fazendo com que ele funcione da melhor forma possível, para que não ocorra problemas de mal funcionamento. O especialista é essencial para os serviços de treinamento, correção de bugs, aumento e expansão da base de conhecimento e melhorias continuas de usabilidade.
+
+As organizações investem nesse recurso, acompanham o mercado e se preocupam em seguir as novas tendências. As empresas que adquirem essa tecnologia, passam a ter uma vantagem competitiva em relação a concorrência, pois conseguem automatizar processos simples de atendimento, de forma reduzir o custo e não deixar o chatbot tão caro.
+
+O acesso de PMEs (Pequenas e de Medias Empresas) torna-se um diferencial competitivo, pois as PMEs tem mais de 60% do comércio eletrônico. Então o Watson também pode ser considerado um argumento, não de automação de exclusão, mas sim, de inclusão de empreendedores em atividades de maior qualidade de informações nesta área denominada modernamente como: "Gestão de Atendimento", em que podem e devem procurar seguir padrões de ISO, na medida do possível, como ISO 9001:2000, ISO 10002:2004, ITIL, BS15000, COBIT, Sarbanes Oxley e os Critérios de Excelência FPNQ.
+
+Quando se implementa um chatbot em uma empresa, os processos passam a serem tratados de formas mais eficientes, impactando positivamente nos gastos. Dispensando a necessidade de manter uma grande equipe, reduzindo o custo com alocações e infraestrutura, tornando o chatbot uma opção viável economicamente para serviços de baixa e média complexibilidade.
+
+Um fator que deve ser considerado, é a captação de dados através das interações com os clientes, fazendo com que a empresa consiga prever quais serão as necessidades futuras de seus consumidores, já que dados são a matéria mais valiosa de uma empresa. Fazendo com que  a organização consigam gerenciar melhor as suas informações, de maneira centralizada.
+
+E no cenário global, as empresas se preocupam em atingir todos públicos, e o chatbot tem uma grande importância nesse processo, porque eles conseguem fidelizar os clientes, informando-os sobre os mais diversos assuntos. Outra de suas vantagens, que é o que o torna extremamente competitivo é a sua alta disponibilidade para atender o cliente, uma vez funcionam 24/7 com uma quantidade pré-definida de recursos. [10]
+
+
+Perigos e alertas a serem estudadas em chatbots
+	
+Este artigo ou secção não cita fontes confiáveis e independentes. Ajude a inserir referências.
+O conteúdo não verificável pode ser removido.—Encontre fontes: Google (notícias, livros e acadêmico) (Fevereiro de 2018)
+
+A inteligência artificial é apontada por vários estudiosos como um recurso que precisa ser pesquisado com cuidado. E uma notícia recente confirma essa tese: o Facebook desligou um de seus projetos de inteligência artificial nessa semana Julho /2017, após descobrirem que seus chatbots estavam criando sua própria linguagem para comunicação. Os chatbots Alice e Bob criados pelo Facebook estavam criando um idioma próprio e passaram a agir de forma diferente da que foi descrita por seus programadores no início do projeto. Os pesquisadores identificaram que a dupla de chatbots desenvolveu uma forma própria de se comunicar, utilizando padrões e repetições de palavras em inglês.
+
+No entanto, o que chamou mais a atenção dos pesquisadores foi que os bots usaram de artifícios no meio das conversas, fingindo interesse em assuntos apenas para obter o que desejavam. O projeto foi desligado quando a equipe da rede social entendeu que a mudança de padrão tornava difícil demais analisar os dados e adotar o projeto. Assim, antes que o projeto ficasse fora de controle, a inteligência artificial foi desligada.
+
+Recentemente, o CEO da Tesla e SpaceX, Elon Musk afirmou que a compreensão de Mark Zuckerberg, criador do Facebook, sobre a inteligência artificial seria "limitada". Os dois executivos discordam sobre a necessidade de uma regulamentação governamental sobre as pesquisas nesse campo da tecnologia. Para Musk, é preciso acreditar nos perigos reais da IA.
+
+Eu continuo soando o alarme, mas até que as pessoas vejam robôs na rua matando pessoas, elas não sabem como reagir, porque parece tão etéreo.
